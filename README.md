@@ -13,6 +13,7 @@ In the future, the playing method of earth pit and foot stepping may be added. P
  - Laotan pickled cabbage bag: mouth area ~. Synthesis of cigarette butts, fermented spider eyes and sauerkraut
  - Cigarette ends: (tentatively obtained by burning rotten meat)
  - KangShiFu laotan pickled vegetable beef noodles: taste it yourself...(I'm going to have nausea)
+<br>
 Pickled cabbage bun and noodles can be invited (forced) to other players or creatures to taste. Right click them.
 
 ##### Video:
@@ -32,6 +33,7 @@ https://www.bilibili.com/video/BV1g44y1T7dN
  - 老坛酸菜包：口区~。烟头、发酵蜘蛛眼加酸菜合成
  - 烟头：（暂定烧制腐肉获得）
  - 康尸傅老痰酸菜牛铀面：自己品吧。。。
+<br>
 酸菜包和面可以请（逼）其他玩家或生物品尝（口区），对着他们右键即可（doge）
 
 ##### 视频：
