@@ -1,0 +1,36 @@
+{
+  "credit": "Made with Blockbench by PeterXiong",
+  "parent": "builtin/generated",
+  "textures": {
+    "layer0": "laotan:item/crude_salt"
+  },
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [56, -90, 0],
+      "scale": [0.5, 0.5, 0.3]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [56, 90, 0],
+      "scale": [0.5, 0.5, 0.3]
+    },
+    "firstperson_righthand": {
+      "rotation": [-157, 76, 160],
+      "translation": [0, 1, 0],
+      "scale": [0.5, 0.5, 0.3]
+    },
+    "firstperson_lefthand": {
+      "rotation": [-157, 76, 160],
+      "translation": [0, 1, 0],
+      "scale": [0.5, 0.5, 0.3]
+    },
+    "ground": {
+      "scale": [0.5, 0.5, 0.3]
+    },
+    "head": {
+      "translation": [0, -17, 0]
+    },
+    "fixed": {
+      "scale": [1, 1, 0.6]
+    }
+  }
+}

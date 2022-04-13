@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:sea_pickle"
+    },
+    {
+      "item": "laotan:salt"
+    }
+  ],
+  "result": {
+    "item": "laotan:pickled_cabbage",
+    "count": 1
+  }
+}

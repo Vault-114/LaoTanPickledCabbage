@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "laotan:crude_salt"
+  },
+  "result": "laotan:salt",
+  "experience": 0.2,
+  "cookingtime": 200
+}

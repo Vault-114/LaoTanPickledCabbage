@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "id": "laotansuancai",
+  "version": "${version}",
+  "name": "LaoTan",
+  "description": "老坛酸菜牛铀面，老痰工艺，足时发酵，三十二道工序烟制而成",
+  "authors": [
+    "PeterXiong",
+    "DietrichChen"
+  ],
+  "contact": {
+    "website": "peterxiong.live"
+  },
+  "license": "GPLv3.0",
+  "icon": "assets/LaoTan/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "com.nazismhub.laotan.client.LaoTanClient"
+    ],
+    "main": [
+      "com.nazismhub.laotan.LaoTan"
+    ]
+  },
+  "mixins": [
+    "LaoTan.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.13.3",
+    "fabric": "*",
+    "minecraft": "1.18.2"
+  }
+}

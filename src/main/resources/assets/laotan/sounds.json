@@ -1,0 +1,16 @@
+{
+  "laotan.eat": {
+    "sounds": [
+      {
+        "name": "laotan:eat"
+      }
+    ]
+  },
+  "laotan.finish_eat": {
+    "sounds": [
+      {
+        "name": "laotan:finish_eat"
+      }
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "OWE",
+    "PLP",
+    "PPP"
+  ],
+  "key": {
+    "E": {
+      "item": "minecraft:egg"
+    },
+    "W": {
+      "item": "minecraft:wheat"
+    },
+    "O": {
+      "item": "minecraft:poisonous_potato"
+    },
+    "P": {
+      "item": "minecraft:paper"
+    },
+    "L": {
+      "item": "laotan:suancai"
+    }
+  },
+  "result": {
+    "item": "laotan:noodles",
+    "count": 1
+  }
+}

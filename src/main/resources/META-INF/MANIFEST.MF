@@ -1,0 +1,50 @@
+Manifest-Version: 1.0
+Class-Path: fabric-textures-v0-1.0.12+3ac43d9560.jar asm-9.2.jar lwjgl-t
+ inyfd-3.2.2.jar jline-reader-3.12.1.jar fabric-data-generation-api-v1-2
+ .0.7+6d3e563660.jar fabric-networking-v0-0.3.8+b4f4f6cd60.jar blocklist
+ -1.0.10.jar commons-codec-1.15.jar logging-1.0.0.jar oshi-core-5.8.5.ja
+ r log4j-core-2.17.0.jar access-widener-2.1.0.jar fabric-transfer-api-v1
+ -1.5.14+cca23f9360.jar sponge-mixin-0.11.2+mixin.0.8.5.jar asm-commons-
+ 9.2.jar fabric-key-binding-api-v1-1.0.12+54e5b2ec60.jar error_prone_ann
+ otations-2.7.1.jar httpcore-4.4.14.jar asm-util-9.2.jar dev-launch-inje
+ ctor-0.2.1+build.8.jar fabric-models-v0-0.3.6+d7c144a860.jar datafixeru
+ pper-4.1.27.jar asm-tree-9.2.jar commons-lang3-3.12.0.jar fabric-render
+ er-registries-v1-3.2.11+b4f4f6cd60.jar lwjgl-opengl-3.2.2.jar lwjgl-ope
+ nal-3.2.2.jar fabric-api-base-0.4.4+d7c144a860.jar fabric-networking-ap
+ i-v1-1.0.21+d882b91560.jar fabric-registry-sync-v0-0.9.8+0d9ab37260.jar
+  jna-platform-5.10.0.jar fabric-containers-v0-0.1.21+d7c144a860.jar fab
+ ric-renderer-api-v1-0.4.13+d882b91560.jar fabric-dimensions-v1-2.1.17+2
+ 540745460.jar tiny-mappings-parser-0.3.0+build.17.jar text2speech-1.12.
+ 4.jar fabric-object-builder-api-v1-2.0.3+40c91ec860.jar fabric-api-look
+ up-api-v1-1.5.7+d7c144a860.jar failureaccess-1.0.1.jar jopt-simple-5.0.
+ 4.jar lwjgl-glfw-3.2.2.jar lwjgl-stb-3.2.2.jar httpclient-4.5.13.jar fa
+ bric-loot-tables-v1-1.0.11+d7c144a860.jar fabric-resource-conditions-ap
+ i-v1-2.0.2+d1027f7d60.jar guava-31.0.1-jre.jar javabridge-1.2.24.jar ma
+ ppings.jar fabric-blockrenderlayer-v1-1.1.12+3ac43d9560.jar fabric-biom
+ e-api-v1-8.0.3+801ec85b60.jar fabric-entity-events-v1-1.4.8+d7c144a860.
+ jar fabric-item-api-v1-1.3.3+691a79b560.jar brigadier-1.0.18.jar fabric
+ -rendering-data-attachment-v1-0.3.7+d7c144a860.jar jline-terminal-3.12.
+ 1.jar authlib-3.3.39.jar fabric-command-api-v1-1.1.9+d7c144a860.jar asm
+ -analysis-9.2.jar fabric-events-lifecycle-v0-0.2.13+d7c144a860.jar fabr
+ ic-rendering-v1-1.10.7+54e5b2ec60.jar fabric-keybindings-v0-0.2.10+b4f4
+ f6cd60.jar fabric-commands-v0-0.2.8+b4f4f6cd60.jar slf4j-api-1.8.0-beta
+ 4.jar patchy-2.2.10.jar fabric-content-registries-v0-3.0.2+d82b939260.j
+ ar fabric-crash-report-info-v1-0.1.11+3ac43d9560.jar icu4j-70.1.jar jav
+ a-objc-bridge-1.0.0.jar jna-5.10.0.jar fabric-api-0.48.0+1.18.2.jar fab
+ ric-transitive-access-wideners-v1-1.0.0+40c91ec860.jar fabric-game-rule
+ -api-v1-1.0.13+d7c144a860.jar fabric-screen-handler-api-v1-1.1.14+40c91
+ ec860.jar terminalconsoleappender-1.2.0.jar log4j-slf4j18-impl-2.17.0.j
+ ar commons-logging-1.2.jar fabric-lifecycle-events-v1-2.0.2+2540745460.
+ jar fabric-resource-loader-v0-0.4.18+2de5574560.jar fabric-rendering-fl
+ uids-v1-2.0.2+54e5b2ec60.jar tiny-remapper-0.8.1.jar lwjgl-jemalloc-3.2
+ .2.jar listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar c
+ ommons-compress-1.21.jar fabric-events-interaction-v0-0.4.19+d7c144a860
+ .jar gson-2.8.9.jar fabric-renderer-indigo-0.4.17+d8c7b9ae60.jar lwjgl-
+ 3.2.2.jar fabric-rendering-v0-1.1.13+b4f4f6cd60.jar fabric-screen-api-v
+ 1-1.0.10+d882b91560.jar fastutil-8.5.6.jar jsr305-3.0.2.jar commons-io-
+ 2.11.0.jar fabric-item-groups-v0-0.3.10+3ac43d9560.jar log4j-api-2.17.0
+ .jar fabric-loader-0.13.3.jar netty-all-4.1.68.Final.jar fabric-gametes
+ t-api-v1-1.0.15+2540745460.jar checker-qual-3.12.0.jar fabric-particles
+ -v1-0.2.12+526dc1ac60.jar minecraft-project-@-merged-named.jar j2objc-a
+ nnotations-1.3.jar fabric-mining-level-api-v1-2.0.4+d1027f7d60.jar
+

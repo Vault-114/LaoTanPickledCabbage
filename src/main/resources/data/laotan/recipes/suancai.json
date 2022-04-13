@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "laotan:pickled_cabbage"
+    },
+    {
+      "item": "laotan:cigarette_ends"
+    },
+    {
+      "item": "minecraft:fermented_spider_eye"
+    }
+  ],
+  "result": {
+    "item": "laotan:suancai",
+    "count": 2
+  }
+}

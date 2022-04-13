@@ -1,0 +1,43 @@
+{
+	"credit": "Made with Blockbench by PeterXiong",
+	"parent": "builtin/generated",
+	"textures": {
+		"layer0": "laotan:item/pickled_cabbage"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-16, 90, -145],
+			"translation": [0, 1.5, 0.25],
+			"scale": [0.7, 0.7, 0.3]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [86, 90, 0],
+			"translation": [0, 1.5, 0.25],
+			"scale": [0.7, 0.7, 0.3]
+		},
+		"firstperson_righthand": {
+			"rotation": [-120, -86, -180],
+			"translation": [0, 4, 0.75],
+			"scale": [0.7, 0.7, 0.3]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-120, -86, 46],
+			"translation": [1.25, 4, 0.75],
+			"scale": [0.7, 0.7, 0.3]
+		},
+		"ground": {
+			"scale": [0.7, 0.7, 0.3]
+		},
+		"gui": {
+			"rotation": [-9, 3, -78],
+			"scale": [1, 1, 0.01]
+		},
+		"head": {
+			"translation": [0, 7.5, -1.5]
+		},
+		"fixed": {
+			"translation": [0, 0, -0.75],
+			"scale": [1, 1, 0.3]
+		}
+	}
+}
